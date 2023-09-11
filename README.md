@@ -37,5 +37,7 @@ Stata is a popular software for statistical analysis. Python provides the `panda
 ## Conclusion 🚀📊
 
 In conclusion, Python offers a versatile set of tools for importing data from various sources. Whether you're dealing with CSV files, Excel spreadsheets, JSON data, SQL databases, SAS, Stata, or specialized formats like HDF5, Python's libraries provide efficient and intuitive methods to get your data into a format you can work with. With these tools at your disposal, you're well-equipped to tackle a wide range of data-driven projects. 
-[Click here to open the notebook](Importing data.ipynb)
+
+[Click here to open the notebook](https://github.com/anunda-nyagami/importing-data-in-python/blob/main/Importing%20data.ipynb)
+
 Happy coding! 🚀📊
